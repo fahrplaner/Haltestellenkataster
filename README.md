@@ -1,4 +1,4 @@
-# Haltestellenkataster
+# Haltestellenkataster: Haltestellen/-Masten, B+R-, P+R-, Vorverkaufsstellen-POIs
 Datenexport des Haltestellen-Informations-Systems des Zweckverband Verkehrsverbund Bremen/Niedersachsen (zvbn).
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
